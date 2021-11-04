@@ -25,7 +25,7 @@ body {
     height: 100vh;
     width: calc(100% - 17px);
     filter: blur(13px);
-    transform: scale(1.1);
+    transform: scale(1.2);
     z-index: -1;
 }
 
